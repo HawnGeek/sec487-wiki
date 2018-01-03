@@ -1,49 +1,64 @@
+SANS SEC487 Wiki
+==================
+
+---
 
 Welcome to the SANS SEC487 Wiki
-===
+----------
 
 
-About the Wiki
---------------
-This wiki is here to help you, the student by providing you electronic versions of some of the course content, providing additional resources and combining all of these things into a single location.
-![Cyber Defense](CyberDefense_logo.jpg)
-
-### **`SEC487 Portal Version: 0.0.1 #Alpha`**
-### **`Course Version beta01_01`**
+![Cyber Defense](SEC487/CyberDefense_logo.jpg)
+### **`SEC487 Portal Version: 0.0.1 #Beta`**
+### **`Course Version A01_01`**
 
 ---
 
-Bugs and Suggestions
---------------------
-_“To err is human, to participate is divine.” - Micah Hoffman_ 
-Many people have helped to make this course what it is today and I appreciate all their hard work, ideas and feedback. I value your input too! 
+The goal of the SEC487 wiki is to increase the **in-class**, and, most importantly, **after-class** value of the course material. This wiki is, and likely always will be, very much a work in progress.
 
-- See an error in this course? Tell me. 
-- Have a tool or technique that should be in here and is not? Let me know. 
-
-I’m a strong believer in using Twitter for communication and have also provided the [updates@sec487.info](mailto:updates@sec487.info?subject=SEC487%20Updates,%20Bugs,%20and%20Suggestions) email address for those comments that exceed 140 characters.
-
+Contained in the wiki, you will find:
+- Electronic Copies of the Lab Guides (**copy and paste, FTW!!!**)
+- Tool and technique cheat sheets
+...and more
 
 ---
 
-Alumni Google Group
--------------------
-Join the discussion about OSINT and the course on the SEC487 alumni Google Group:
 
-[https://the.osint.ninja/487_group](https://the.osint.ninja/487_group)
+Course/Lab/Wiki Bugs or Suggestions
+----------
 
 ---
 
-Props and Thanks
-----------------
-Many other people have provided suggestions, topics to explore and various bits of data to make this course even better. While mentioning their names here doesn't express my deepest appreciation for their help...it is something. 
+Please let us know if you find any bugs in the courseware/labs/wiki we need to squash. Also, reach out if you have suggestions to improve the course (e.g. content/labs/tools that should be added, removed, or updated). The easiest ways to submit these improvements are:
 
-- Seth Misener [@sethmisenar](http://twitter.com/sethmisenar) [gimmick:TwitterFollow](@sethmisenar) and Eric Conrad [@eric_conrad](http://twitter.com/eric_conrad) [gimmick:TwitterFollow](@eric_conrad) have been amazing mentors and knowledgable advisors at every step in the proposing, creating and growing this course. Their direction and experience have saved me countless hours of work and I appreciate their help and value their friendship. 
-- John Terbush [@thegumshoo](http://twitter.com/thegumshoo) [gimmick:TwitterFollow](@thegumshoo) helped flesh out a number of topics, allowed me to bounce ideas and concepts off of him and remained positive even when I was stressed. Thanks John!
-- Matt Edmonson [@matt0177](http://twitter.com/matt0177) [gimmick:TwitterFollow](@matt0177) has lent his experienced opinions and ideas to shape the course into something useful to a wider audience of students. Thanks Matt!
+1. Using the #coursewaresuggestions channel in the course sec487alum.slack.com Slack (See the Day 1 lab to get yourself set up!)
+2. Or by sending an email to **<bugs@sec487.info>**
 
 ---
 
-About the Author
-----------------
-I am Micah Hoffman ([@WebBreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher) and [@OsintNinja](https://twitter.com/osintninja) [gimmick:TwitterFollow](@osintninja) on Twitter) and I'm the course author. My web site [WebBreacher.com](https://webbreacher.com) contains helpful hints and tricks for web application assessments and Open Source Intelligence investigations. 
+Keep In Touch
+----------
+
+---
+
+We recognize that the learning doesn't stop once you complete the course. In fact, it usually just begins. Stay in touch with your instructors and fellow students in two different ways:
+
+- Join the SEC487 alumni Google Group: [https://sec487.info/group](https://sec487.info/group)
+
+- Join the SEC487alum.slack.com group by requesting an invite at [https://sec487.info/slack](https://sec487.info/slack)
+
+---
+
+Social Media?
+----------
+
+---
+Do you use have a social media account on Twitter, Instagram, Facebook, or other site? Of COURSE you do! You probably have multiple sock puppets on each! 
+
+Feel free to use the #SEC487 hash tag on those sites to discuss neat things you learned in class.
+
+The course author and instructors are mostly on Twitter. Feel free to tweet to us:
+
+- [@WebBreacher](https://twitter.com/webbreacher)
+- [@OsintNinja](https://twitter.com/osintninja)
+- [@SANSDefense](https://twitter.com/sansdefense)
+- [#SEC487](https://twitter.com/search?q=%23sec487&src=typd)
