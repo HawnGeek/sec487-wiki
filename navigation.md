@@ -4,7 +4,7 @@ SEC487
 [Home](index.md)
 
 [Labs]()
-- #### Labs
+
 - [All Labs](/Labs/Labs.md)
 - [487.1](/Labs/487_1/487.1.md)
 - [487.2](/Labs/487_2/487.2.md)
@@ -13,12 +13,14 @@ SEC487
 - [487.5](/Labs/487_5/487.5.md)
 
 [Instructors]()
+
 - #### Author
 - [Micah Hoffman](/Instructors/MicahHoffman.md)
 - #### Instructors
 - Coming soon!
 
 [Primers/Reference]()
+
 - #### Primers
 - [Linux CLI 101](/Tools/LinuxCLI101.md)
 - [Linux CLI](/Tools/LinuxCLI.md)
@@ -26,10 +28,12 @@ SEC487
 - [OSINT Framework](http://osintframework.com)
 
 [Updates]()
+
 - [Submit Bug/Suggestion](/Updates/Bugs.md)
 
 [LabQuickNav]()
-- #### Labs
+
+
 - [1.0](/Labs/487_1/0/sec487.1.0.md)
 - [1.1](/Labs/487_1/1/sec487.1.1.md)
 - [1.2](/Labs/487_1/2/sec487.1.2.md)
