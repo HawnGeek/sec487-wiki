@@ -4,6 +4,7 @@ SEC487
 [Home](index.md)
 
 [Labs]()
+- #### Labs
 - [All Labs](/Labs/Labs.md)
 - [487.1](/Labs/487_1/487.1.md)
 - [487.2](/Labs/487_2/487.2.md)
@@ -28,6 +29,7 @@ SEC487
 - [Submit Bug/Suggestion](/Updates/Bugs.md)
 
 [LabQuickNav]()
+- #### Labs
 - [1.0](/Labs/487_1/0/sec487.1.0.md)
 - [1.1](/Labs/487_1/1/sec487.1.1.md)
 - [1.2](/Labs/487_1/2/sec487.1.2.md)
