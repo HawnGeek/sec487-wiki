@@ -56,4 +56,5 @@ SEC487
 - [5.1](/Labs/487_5/1/sec487.5.1.md)
 - [5.2](/Labs/487_5/2/sec487.5.2.md)
 - [5.3](/Labs/487_5/3/sec487.5.3.md)
+- [Appendix A](/Labs/setup/sec487.md)
 - - - -
