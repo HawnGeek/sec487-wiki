@@ -1,13 +1,21 @@
-# SEC487-Wiki
+SEC487
+======
 
 [Home](index.md)
 
-[Resources]()
+[Instructors]()
 
-- [Course Index](/Resources/487_index.md)
-- [Alumni Mailing List](/index.md#Alumni_Mailing_List)
-- [GMON Certification](/Resources/GMON.md)
-- [SEC511: Action Items](/Resources/AI.md)
+- #### Author
+- [Micah Hoffman](/Instructors/MicahHoffman.md)
+
+[Primers/Reference]()
+
+- #### Primers
+- [Linux CLI 101](/Tools/LinuxCLI101.md)
+- [Linux CLI](/Tools/LinuxCLI.md)
+
+[Updates]()
+
+- [Submit Bug/Suggestion](/Updates/Bugs.md)
 
 - - - -
-[Menu Item 3](item3.md)
