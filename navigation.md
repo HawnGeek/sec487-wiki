@@ -1,38 +1,28 @@
 SEC487
 ======
 
-[Home](index.md)
-
-[Labs]()
-
-- [All Labs](/Labs/Labs.md)
-- [487.1](/Labs/487_1/487.1.md)
-- [487.2](/Labs/487_2/487.2.md)
-- [487.3](/Labs/487_3/487.3.md)
-- [487.4](/Labs/487_4/487.4.md)
-- [487.5](/Labs/487_5/487.5.md)
+[Labs](Labs/Labs.md)
 
 [Instructors]()
 
-- #### Author
-- [Micah Hoffman](/Instructors/MicahHoffman.md)
-- #### Instructors
-- Coming soon!
+-	#### Authors
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
+-	#### Instructors
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
+-   TBD
 
-[Primers/Reference]()
+[Tools/Commands]()
 
-- #### Primers
-- [Linux CLI 101](/Tools/LinuxCLI101.md)
-- [Linux CLI](/Tools/LinuxCLI.md)
-- #### Reference
-- [OSINT Framework](http://osintframework.com)
+- #### Cheat Sheets
+-	[Linux CLI 101](/Tools/LinuxCLI101.md)
+-	[Linux CLI](/Tools/LinuxCLI.md)
 
 [Updates]()
 
 - [Submit Bug/Suggestion](/Updates/Bugs.md)
+- [Course Suggestion](/Updates/Suggest.md)
 
 [LabQuickNav]()
-
 
 - [1.0](/Labs/487_1/0/sec487.1.0.md)
 - [1.1](/Labs/487_1/1/sec487.1.1.md)
@@ -56,5 +46,4 @@ SEC487
 - [5.1](/Labs/487_5/1/sec487.5.1.md)
 - [5.2](/Labs/487_5/2/sec487.5.2.md)
 - [5.3](/Labs/487_5/3/sec487.5.3.md)
-- [Appendix A](/Labs/setup/sec487.md)
-- - - -
+
