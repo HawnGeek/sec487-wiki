@@ -6,20 +6,20 @@ SEC487
 [Instructors]()
 
 -	#### Authors
-    -	[Micah Hoffman](/Instructors/MicahHoffman.md)
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
 -	#### Instructors
-    -	[Micah Hoffman](/Instructors/MicahHoffman.md)
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
 
 [Tools/Commands/Files]()
 
 - #### Frameworks and links
-    -   <a href="http://osintframework.com" target="_blank">Advanced Recon Framework</a>
-    -   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
+-   <a href="http://osintframework.com" target="_blank">Advanced Recon Framework</a>
+-   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
 - #### Templates
-    -   [MindMap Template](/Tools/osint_people_mindmap_template_v1.2.xmind)
+-   [MindMap Template](/Tools/osint_people_mindmap_template_v1.2.xmind)
 - #### Cheat Sheets
-    -	[Linux CLI 101](/Tools/LinuxCLI101.md)
-    -	[Linux CLI](/Tools/LinuxCLI.md)
+-	[Linux CLI 101](/Tools/LinuxCLI101.md)
+-	[Linux CLI](/Tools/LinuxCLI.md)
 
 [Updates]()
 
