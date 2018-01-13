@@ -9,7 +9,7 @@ Welcome to the SANS SEC487 Wiki
 
 ![Cyber Defense](SEC487/CyberDefense_logo.jpg)
 ### **`SEC487 Portal Version: 0.0.1 #Beta`**
-### **`Course Version A01_01`**
+### **`Course Version D01_01`**
 
 ---
 
@@ -21,6 +21,12 @@ Contained in the wiki, you will find:
 ...and more
 
 ---
+
+Not in the Class Yet?
+-----------
+Hey this wiki is for everyone to use. If you are in the SEC487 course, you get the additional lab and video files for hands-on practice.
+
+Interested in increasing your OSINT knowledge? Consider signing up for this [SEC487: Open-Source Intelligence Gathering and Analysis](https://www.sans.org/course/open-source-intelligence-gathering) course.
 
 
 Course/Lab/Wiki Bugs or Suggestions
@@ -40,11 +46,11 @@ Keep In Touch
 
 ---
 
-We recognize that the learning doesn't stop once you complete the course. In fact, it usually just begins. Stay in touch with your instructors and fellow students in two different ways:
+We recognize that the learning doesn't stop once you complete the course. In fact, it usually just begins. Stay in touch with your instructors and fellow students in two different ways. Both methods are explained in the SEC487 Day 1 courseware.
 
-- Join the SEC487 alumni Google Group: [https://sec487.info/group](https://sec487.info/group)
+- Join the SEC487 alumni Google Group
 
-- Join the SEC487alum.slack.com group by requesting an invite at [https://sec487.info/slack](https://sec487.info/slack)
+- Join the SEC487 alumni Slack group
 
 ---
 

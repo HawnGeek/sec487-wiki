@@ -11,8 +11,10 @@ SEC487
 -	[Micah Hoffman](/Instructors/MicahHoffman.md)
 -   TBD
 
-[Tools/Commands]()
+[Tools/Commands/Files]()
 
+- #### Templates
+-   [MindMap Template](/Tools/osint_people_mindmap_template_v1.2.xmind)
 - #### Cheat Sheets
 -	[Linux CLI 101](/Tools/LinuxCLI101.md)
 -	[Linux CLI](/Tools/LinuxCLI.md)
