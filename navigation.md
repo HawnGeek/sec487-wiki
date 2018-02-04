@@ -11,6 +11,7 @@ SEC487
 -	[Micah Hoffman](/Instructors/MicahHoffman.md)
 
 [Tools/Commands/Files]()
+
 - #### Frameworks and links
 -   <a href="http://osintframework.com" target="_blank">Advanced Recon Framework</a>
 -   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
