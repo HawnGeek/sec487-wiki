@@ -11,11 +11,6 @@ SEC487
 -	[Micah Hoffman](/Instructors/MicahHoffman.md)
 
 [Tools/Commands/Files]()
-- #### Tools
--   [curl](/Tools/curl.md)
--   [exiftool](/Tools/exiftool.md)
--   [Recon-ng](/Tools/Recon-ng.md)
--   [Wget](/Tools/Wget.md)
 - #### Frameworks and links
 -   <a href="http://osintframework.com" target="_blank">Advanced Recon Framework</a>
 -   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
@@ -25,6 +20,11 @@ SEC487
 -	[Linux CLI 101](/Tools/LinuxCLI101.md)
 -	[Linux CLI](/Tools/LinuxCLI.md)
 -	[Facebook]()
+- #### Tools
+-   [curl](/Tools/curl.md)
+-   [exiftool](/Tools/exiftool.md)
+-   [Recon-ng](/Tools/Recon-ng.md)
+-   [Wget](/Tools/Wget.md)
 
 [Updates]()
 
