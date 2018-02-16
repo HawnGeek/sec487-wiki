@@ -1,15 +1,11 @@
 SANS SEC487 Wiki
 ==================
 
----
-
 Welcome to the SANS SEC487 Wiki
 ----------
 
-
-![Cyber Defense](SEC487/CyberDefense_logo.jpg) ![SEC487](SEC487/487_coin_combined_onwhite.png)
-### **`SEC487 Portal Version: 0.0.2`**
-### **`Course Version D01_01`**
+![SEC487](SEC487/487_coin_combined_onwhite.png) ![Cyber Defense](SEC487/CyberDefense_logo.jpg)
+`SEC487 Portal Version: 0.0.2 - Course Version D01_01`
 
 ---
 
