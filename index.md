@@ -61,6 +61,5 @@ Feel free to use the #SEC487 hash tag on those sites to discuss neat things you 
 The course author and instructors are mostly on Twitter. Feel free to tweet to us:
 
 - [@WebBreacher](https://twitter.com/webbreacher)
-- [@OsintNinja](https://twitter.com/osintninja)
 - [@SANSDefense](https://twitter.com/sansdefense)
 - [#SEC487](https://twitter.com/search?q=%23sec487&src=typd)
