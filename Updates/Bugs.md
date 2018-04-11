@@ -6,5 +6,5 @@ It is amazing to see the breadth of tools and techniques that are used in modern
 
 The easiest ways to submit these improvements is by:
 
-1. Using the #coursewaresuggestions channel in the course sec487alum.slack.com Slack (See the Day 1 lab to get yourself set up!)
+1. Using the #coursewaresuggestions channel in the course https://sec487alum.slack.com Slack (See the Day 1 lab to get yourself set up!)
 2. Or by sending an email to **<bugs@sec487.info>**
